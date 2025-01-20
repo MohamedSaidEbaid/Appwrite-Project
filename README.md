@@ -52,10 +52,6 @@ collectionId: '678aed900000e9ded8cf',
 ![Home Screen](docs/home_screen.png)
 
 
-
-## Voice Note
-![Voice Note Explaining the Project](docs/voice note.m4a)
-
 ## Voice Note
 ![Voice Note Explaining the Project](docs/voice note.mp3)
 
