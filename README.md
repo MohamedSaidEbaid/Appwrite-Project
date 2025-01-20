@@ -54,5 +54,5 @@ collectionId: '678aed900000e9ded8cf',
 
 
 ## Voice Note
-[Voice Note Explaining the Project](docs/voice note.m4a)
+![Voice Note Explaining the Project](docs/voice note.m4a)
 
